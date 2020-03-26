@@ -21,3 +21,13 @@ html {
 body {
   margin: 0;
 }
+
+figcaption {
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
